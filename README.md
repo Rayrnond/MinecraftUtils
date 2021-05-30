@@ -3,13 +3,13 @@
 This library is a useful tool for Spigot Minecraft Plugin Developers. Included are many utility tools to decrease the time spent developing/copy pasting. Made for Spigot development, not Bungeecord.
 
 ## Table of Contents
-* Features
-  * Current Features
-  * Planned Features
-* Download
-  * Maven
-  * Gradle
-* Examples  
+* [Features](https://github.com/Rayrnond/MinecraftUtils/tree/master#features)
+  * [Current Features](https://github.com/Rayrnond/MinecraftUtils/tree/master#current-features)
+  * [Planned Features](https://github.com/Rayrnond/MinecraftUtils/tree/master#planned-features)
+* [Download](https://github.com/Rayrnond/MinecraftUtils/tree/master#download)
+  * [Maven](https://github.com/Rayrnond/MinecraftUtils/tree/master#maven)
+  * [Gradle](https://github.com/Rayrnond/MinecraftUtils/tree/master#gradle)
+* [Examples](https://github.com/Rayrnond/MinecraftUtils/tree/master#examples)
 
 
 ## Features
