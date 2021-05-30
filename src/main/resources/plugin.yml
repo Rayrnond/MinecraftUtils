@@ -1,0 +1,5 @@
+name: MinecraftUtils
+version: ${project.version}
+main: com.reflexian.minecraftutils.MinecraftUtils
+api-version: 1.16
+authors: [ Raymond ]
