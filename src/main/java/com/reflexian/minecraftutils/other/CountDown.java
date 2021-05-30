@@ -19,6 +19,7 @@ public abstract class CountDown {
 
 
     public abstract void count(int current);
+    public abstract void finished();
 
 
     public final void start() {
@@ -27,7 +28,10 @@ public abstract class CountDown {
             @Override
             public void run() {
                 count(time);
-                if (time-- <= 0) cancel();
+                if (time-- <= 0) {
+                    finished();
+                    cancel();
+                }
             }
 
         }.runTaskTimer(plugin, 0L, 20L);

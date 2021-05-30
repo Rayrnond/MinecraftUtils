@@ -1,7 +1,6 @@
 package com.reflexian.minecraftutils;
 
 import com.reflexian.minecraftutils.vanilla.ActionBarUtil;
-import com.reflexian.minecraftutils.vanilla.BoardUtil;
 import lombok.Getter;
 import org.bukkit.plugin.java.JavaPlugin;
 
